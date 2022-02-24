@@ -1,0 +1,11 @@
+body{
+    background-image: url(f.jpg);
+    
+
+}
+h1{
+    text-align: center;
+}
+h1:hover{
+    color: brown;
+}

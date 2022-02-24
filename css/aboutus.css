@@ -1,0 +1,14 @@
+p{
+    
+    color: white;
+
+}
+body{
+    background-image: url(fefa23.jpg);
+    background-size: cover;}
+    p:hover{
+        color: rgb(205, 50, 50);
+    }
+    h1{
+        color: violet;
+    }

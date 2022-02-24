@@ -1,0 +1,23 @@
+img{
+    width: 150px;
+    height: 190px;
+}
+table{
+    width: 100%;
+}
+td{ text-align: center;
+    color: white;
+}
+body{
+    background-image: url(fefa23.jpg);
+    background-size: cover;
+}
+td:hover{
+    color: orchid;
+
+}
+h1{
+    ;
+    transition: :no-button;
+    color: transparent;
+}
